@@ -20,7 +20,7 @@ const More = () => {
         <div className='flex flex-wrap h-full'>
         
         <WorkElement name='Github' logo={faGithub} link="https://github.com/Kushankk"/>
-        <WorkElement name='Resume' logo={faFileText} link="../src/assets/KushankResume.pdf"/>
+        <WorkElement name='Resume' logo={faFileText} link="/KushankResumePortfolio.pdf"/>
         <WorkElement name='KushankVirdi@outlook.com' logo={faEnvelope} link="mailto:KushankVirdi@outlook.com"/>
 
         </div>
